@@ -1,0 +1,5 @@
+Resources used
+https://www.khronos.org/registry/OpenGL-Refpages/
+https://docs.gl/
+https://www.youtube.com/watch?v=45MIykWJ-C4
+and a few stackOverFlow links
